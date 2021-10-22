@@ -1,1 +1,1 @@
-# DesignOfDigitalCircuits-Verilog-
+# DesignOfDigitalCircuits-Verilog
